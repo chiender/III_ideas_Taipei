@@ -1,0 +1,1 @@
+sudo python /home/pi/code/read_volandcur.py
